@@ -3,3 +3,4 @@ access.log
 error.log
 package-lock.json
 node_modules
+log.php
